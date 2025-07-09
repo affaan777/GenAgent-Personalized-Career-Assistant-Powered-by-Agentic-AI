@@ -94,10 +94,6 @@ GenAgent/
 
 Contributions are welcome! Please open issues or submit pull requests for improvements, bug fixes, or new features.
 
-## License
-
-[MIT](LICENSE) (or specify your license here)
-
 ---
 
 **GenAgent** — AI for your career journey 🚀
