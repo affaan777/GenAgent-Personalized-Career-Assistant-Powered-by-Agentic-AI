@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Chainlit-specific cache and config
+.chainlit/
+.files/
+
+# Environment files
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Conda environment folders (if saved locally)
+genagent-env/
+agent-env-py310/
+
+# PDF files (if dynamically uploaded by user)
+*.pdf
+
+# Logs and DB files
+*.log
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Ignore binary and generated data files
+*.pkl
+*.bin
+*.zip
+*.csv
+*.json
+
+# Ignore all Python cache folders recursively
+**/__pycache__/
+
+# Ignore all files in static/resumes/
+static/resumes/*
